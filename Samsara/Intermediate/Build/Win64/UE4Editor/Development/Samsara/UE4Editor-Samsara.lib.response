@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Samsara.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Users\Toob\Documents\Unreal Projects\Samsara\Samsara\Intermediate\Build\Win64\SamsaraEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\Users\Toob\Documents\Unreal Projects\Samsara\Samsara\Intermediate\Build\Win64\UE4Editor\Development\Samsara\Samsara.cpp.obj"
+"E:\Users\Toob\Documents\Unreal Projects\Samsara\Samsara\Intermediate\Build\Win64\UE4Editor\Development\Samsara\SamsaraGameModeBase.cpp.obj"
+"E:\Users\Toob\Documents\Unreal Projects\Samsara\Samsara\Intermediate\Build\Win64\UE4Editor\Development\Samsara\Samsara.init.gen.cpp.obj"
+"E:\Users\Toob\Documents\Unreal Projects\Samsara\Samsara\Intermediate\Build\Win64\UE4Editor\Development\Samsara\SamsaraGameModeBase.gen.cpp.obj"
+"E:\Users\Toob\Documents\Unreal Projects\Samsara\Samsara\Intermediate\Build\Win64\UE4Editor\Development\Samsara\PCLaunch.rc.res"
+/OUT:"E:\Users\Toob\Documents\Unreal Projects\Samsara\Samsara\Intermediate\Build\Win64\UE4Editor\Development\Samsara\UE4Editor-Samsara.lib"
