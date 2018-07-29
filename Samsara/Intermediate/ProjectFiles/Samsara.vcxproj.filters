@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\Samsara.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{0BBBB88C-3C90-4C70-AAC9-681BA6ADDDBA}</UniqueIdentifier>
+			<UniqueIdentifier>{35F96C46-D711-4E38-B10D-9E02CCFF8AEE}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\Samsara.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{FF31DB68-EC4C-4086-BD9A-E268FB7F932E}</UniqueIdentifier>
+			<UniqueIdentifier>{38B7A895-D998-4777-8133-937941AE8886}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -28,7 +28,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\Samsara">
-			<UniqueIdentifier>{319384B7-4E21-49BB-89E2-623D5CE1BB63}</UniqueIdentifier>
+			<UniqueIdentifier>{DFD20D05-E7DA-441C-888A-23300AA56BEC}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\Samsara\Samsara.Build.cs">
 			<Filter>Source\Samsara</Filter>
